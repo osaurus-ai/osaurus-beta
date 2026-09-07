@@ -3,6 +3,22 @@
   <channel>
     <title>Osaurus Beta</title>
         <item>
+            <title>1.0.0-internal.14</title>
+            <pubDate>Mon, 07 Sep 2026 17:28:19 +0000</pubDate>
+            <sparkle:channel>release</sparkle:channel>
+            <sparkle:version>1.0.0-internal.14</sparkle:version>
+            <sparkle:shortVersionString>1.0.0-internal.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/osaurus-ai/osaurus-beta/releases/download/1.0.0-internal.14/OsaurusBeta-1.0.0-internal.14.dmg" length="75601123" type="application/octet-stream" sparkle:edSignature="XuNXrQfDI+z75SdvTvG67BA4Utmtq/VKAXMXgSUMII5C8XJk3l8bIk666QnkaX+pO4ux4Ovp0VkLd3oP0C0SBg=="/>
+            <description sparkle:format="markdown"><![CDATA[
+Osaurus Beta 1.0.0-internal.14 — internal build for testing only.
+
+Installs alongside stable Osaurus and shares its data directory.
+Not for redistribution.
+]]></description>
+        </item>
+        <item>
             <title>1.0.0-internal.13</title>
             <pubDate>Mon, 07 Sep 2026 11:37:18 +0000</pubDate>
             <sparkle:channel>release</sparkle:channel>
