@@ -3,6 +3,22 @@
   <channel>
     <title>Osaurus Beta</title>
         <item>
+            <title>1.0.0-internal.18</title>
+            <pubDate>Wed, 07 Oct 2026 12:10:52 +0000</pubDate>
+            <sparkle:channel>release</sparkle:channel>
+            <sparkle:version>1.0.0-internal.18</sparkle:version>
+            <sparkle:shortVersionString>1.0.0-internal.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/osaurus-ai/osaurus-beta/releases/download/1.0.0-internal.18/OsaurusBeta-1.0.0-internal.18.dmg" length="84900638" type="application/octet-stream" sparkle:edSignature="xgbQW5Re2Bts/lwUySX2k18rXr9AoK1f2kUwDIwerzCUIsjPlgslqn7rWhPEeI11Hte8u74hPJ7Yl0q85kOyAQ=="/>
+            <description sparkle:format="markdown"><![CDATA[
+Osaurus Beta 1.0.0-internal.18 (Workflows build) — internal build for testing only.
+
+Installs alongside stable Osaurus and shares its data directory.
+Not for redistribution.
+]]></description>
+        </item>
+        <item>
             <title>1.0.0-internal.17</title>
             <pubDate>Wed, 07 Oct 2026 01:59:40 +0000</pubDate>
             <sparkle:channel>release</sparkle:channel>
