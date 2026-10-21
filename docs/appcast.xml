@@ -3,6 +3,30 @@
   <channel>
     <title>Osaurus Beta</title>
         <item>
+            <title>1.0.0-internal.30</title>
+            <pubDate>Wed, 21 Oct 2026 11:14:38 +0000</pubDate>
+            <sparkle:channel>release</sparkle:channel>
+            <sparkle:version>1.0.0-internal.30</sparkle:version>
+            <sparkle:shortVersionString>1.0.0-internal.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/osaurus-ai/osaurus-beta/releases/download/1.0.0-internal.30/OsaurusBeta-1.0.0-internal.30.dmg" length="88840285" type="application/octet-stream" sparkle:edSignature="cFqE1BmxLeloOr80QaqdOqf61v+VVj6trvjGLUSH4xtxDjLDAOIOnWkDqSgrjB6IXugMUBWMfNzA7e9tTCjoCA=="/>
+            <description sparkle:format="markdown"><![CDATA[
+Osaurus Beta 1.0.0-internal.30 (Workflows build) — internal build for testing only.
+
+Installs alongside stable Osaurus and shares its data directory
+(~/.osaurus). Run only one of them at a time; Osaurus Beta asks you
+to quit Osaurus before it starts.
+
+To go back: quit Osaurus Beta and open Osaurus. No reinstall is
+needed. Chats, agents, and settings carry over, and schedules,
+watchers, and channel routing are as they were before the beta.
+Workflows and automations made in the beta stay beta-only.
+
+Not for redistribution.
+]]></description>
+        </item>
+        <item>
             <title>1.0.0-internal.29</title>
             <pubDate>Mon, 19 Oct 2026 17:11:31 +0000</pubDate>
             <sparkle:channel>release</sparkle:channel>
